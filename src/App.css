@@ -1,0 +1,8 @@
+/* App-level styles for Gansh AI landing page */
+
+.gansh-app {
+  min-height: 100vh;
+  background: var(--gansh-bg);
+  color: var(--gansh-text);
+}
+
